@@ -1,0 +1,8 @@
+A<B
+B>C
+C>A
+
+
+A>B
+C<B
+A>C

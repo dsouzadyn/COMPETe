@@ -1,0 +1,11 @@
+3
+Dodecahedron
+Octahedron
+Octahedron
+
+
+4
+Icosahedron
+Cube
+Tetrahedron
+Dodecahedron
