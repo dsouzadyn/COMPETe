@@ -1,0 +1,27 @@
+2
+12 1
+WA 3 wA aW wa
+Wa 3 aW wa tle
+TLE 1 tle
+wA 2 ZeNC aw
+wa 2 Aw tLe
+tle 3 wa NZEC nzec
+ZeNC 1 CENZ
+aw 1 CE
+Aw 3 CE RE ce
+NZEC 1 AW
+CE 2 leT Elt
+ce 3 tLe LTE AW
+12 2
+WA 3 wA aW wa
+Wa 3 aW wa tle
+TLE 1 tle
+wA 2 ZeNC aw
+wa 2 Aw tLe
+tle 3 wa NZEC nzec
+ZeNC 1 CENZ
+aw 1 CE
+Aw 3 CE RE ce
+NZEC 1 AW
+CE 2 leT Elt
+ce 3 tLe LTE AW

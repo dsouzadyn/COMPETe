@@ -1,0 +1,6 @@
+5
+dbcd
+abcd
+dbca
+dcba
+bzzzz
